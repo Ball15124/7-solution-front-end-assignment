@@ -9,6 +9,5 @@ You can view my project, an Auto Delete Todo List, at the following link:
 
 Unit tests are included in the repository. You are welcome to clone the repository and run the tests using the command: <pre> ```npm test ``` </pre>
 
-[Linkedin](www.linkedin.com/in/nawat-sujjaritrat-5588762aa)
 [Resume](https://nawat-resume.tiiny.site)
 Tel: 097-020-0803
