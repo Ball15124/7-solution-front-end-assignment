@@ -36,7 +36,7 @@ export default function Home() {
         setData(result);
       })();
     }
-  }, [isOpen]);
+  }, [isOpen, data]);
 
   const handleClick = (item: CardItem) => {
     setAllItems((prev) => prev.filter((i) => i.name !== item.name));

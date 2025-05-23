@@ -38,7 +38,6 @@ export async function transformUsersByDepartment(): Promise<TransformedData> {
     const postalCode = user.address.postalCode;
     const gender = user.gender;
     const hairColor = user.hair.color;
-    const age = user.age;
 
     if (!departmentMap[department]) {
       departmentMap[department] = {
